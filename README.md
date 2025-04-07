@@ -24,7 +24,7 @@ This Streamlit web app detects scene changes in an uploaded video by analyzing t
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/scene-change-detector.git
+git clone https://github.com/Aaacurse/Video-Scene-Change-Detection.git
 cd scene-change-detector
 ```
 #### Install dependencies
