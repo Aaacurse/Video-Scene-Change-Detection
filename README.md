@@ -40,3 +40,12 @@ streamlit run app.py
 
 ```
 
+
+
+## Project Images
+![Home Page](https://github.com/Aaacurse/Video-Scene-Change-Detection/blob/13042a48fd85cf55eb5dee46b1bdb7bc2f4761c7/demo_photos/Home%20Page.png)
+![Browse Video](https://github.com/Aaacurse/Video-Scene-Change-Detection/blob/13042a48fd85cf55eb5dee46b1bdb7bc2f4761c7/demo_photos/Browse%20Video.png)
+![Video Processing](https://github.com/Aaacurse/Video-Scene-Change-Detection/blob/13042a48fd85cf55eb5dee46b1bdb7bc2f4761c7/demo_photos/Video%20Processing.png)
+![Output](https://github.com/Aaacurse/Video-Scene-Change-Detection/blob/13042a48fd85cf55eb5dee46b1bdb7bc2f4761c7/demo_photos/Output.png)
+![Download Result](https://github.com/Aaacurse/Video-Scene-Change-Detection/blob/13042a48fd85cf55eb5dee46b1bdb7bc2f4761c7/demo_photos/Download%20Result.png)
+
