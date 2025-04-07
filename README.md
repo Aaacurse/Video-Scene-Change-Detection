@@ -23,20 +23,20 @@ This Streamlit web app detects scene changes in an uploaded video by analyzing t
 
 #### Clone the Repository
 
-```http
+```bash
 git clone https://github.com/yourusername/scene-change-detector.git
 cd scene-change-detector
 ```
 #### Install dependencies
 
-```http
+```bash
 pip install -r requirements.txt
-
 ```
 
 ## Running the App
 
-```http
+```bash
 streamlit run app.py
 
 ```
+
